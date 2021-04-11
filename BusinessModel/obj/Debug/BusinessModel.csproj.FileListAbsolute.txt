@@ -1,0 +1,6 @@
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4\BusinessModel\bin\Debug\BusinessModel.dll
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4\BusinessModel\bin\Debug\BusinessModel.pdb
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4\BusinessModel\obj\Debug\BusinessModel.csprojAssemblyReference.cache
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4\BusinessModel\obj\Debug\BusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4\BusinessModel\obj\Debug\BusinessModel.dll
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4\BusinessModel\obj\Debug\BusinessModel.pdb
